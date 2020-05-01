@@ -1,0 +1,11 @@
+# Setting up verbosity
+/tracking/verbose 0
+/run/verbose 0
+# 
+# Running Co-60 source
+/control/execute co60Source.mac
+#
+# Releasing 'n' particles
+/run/initialize
+/run/beamOn 1000
+#

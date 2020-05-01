@@ -1,0 +1,15 @@
+#beam #1
+/gps/source/intensity 1.
+/gps/particle gamma
+/gps/pos/type Point
+/gps/ang/type iso
+/gps/ene/type Mono
+/gps/ene/mono 1.3325 MeV
+
+#beam #2
+/gps/source/add 1.
+/gps/particle gamma
+/gps/pos/type Point
+/gps/ang/type iso
+/gps/ene/type Mono
+/gps/ene/mono 1.1732 MeV

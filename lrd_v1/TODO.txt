@@ -1,0 +1,2 @@
+Make particles release in coincidence and record both energies at once
+Fix command system for altering geometry
